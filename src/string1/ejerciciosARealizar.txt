@@ -1,0 +1,15 @@
+helloName H, hecho	 
+makeAbba H, hecho	 
+makeTags, hecho
+makeOutWord, hecho	 
+extraEnd, hecho	 
+firstTwo, hecho
+firstHalf, hecho	 
+withoutEnd, hecho	 
+comboString, hecho
+nonStart, hecho	 
+left2, hecho 
+right2, hecho
+theEnd, hecho	 
+withouEnd2, hecho	 
+middleTwo, hecho

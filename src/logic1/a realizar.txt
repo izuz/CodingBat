@@ -1,0 +1,30 @@
+cigarParty, hecho	 
+dateFashion, hecho 
+squirrelPlay,hecho
+caughtSpeeding, hecho	 
+sortaSum, hecho	 
+alarmClock, hecho
+love6, hecho (da algun error)
+in1To10, hecho
+specialEleven, hecho
+more20, hecho	
+old35, hecho	 
+less20, hecho
+nearTen, hecho	 
+teenSum, hecho	 
+answerCell, hecho
+teaParty, hecho	 
+fizzString, hecho 
+fizzString2, hecho
+twoAsOne, hecho
+inOrder, hecho	 
+inOrderEqual, hecho
+lastDigit, hecho	 
+lessBy10, hecho
+withoutDoubles, hecho
+maxMod5, hecho	 
+redTicket, hecho	 
+greenTicket, hecho
+blueTicket, hecho
+shareDigit, hecho
+sumLimit, hecho

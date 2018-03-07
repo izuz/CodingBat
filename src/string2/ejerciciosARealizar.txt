@@ -1,0 +1,13 @@
+doubleChar H, hecho	 
+countHi H, hecho	 
+catDog, hecho
+countCode, hecho	 
+endOther, hecho	 
+xyzThere, hecho
+bobThere, hecho	 
+xyBalance, hecho	 
+mixString, hecho
+repeatEnd, hecho	 
+repeatFront, hecho	 
+repeatSeparator, hecho
+
