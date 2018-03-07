@@ -1,0 +1,17 @@
+makeMiddle, hecho
+commonEnd, hecho
+sum3, hecho	 
+rotateLeft3, hecho
+reverse3, hecho	 
+maxEnd3, hecho	 
+sum2, hecho
+middleWay, hecho	 
+makeEnds, hecho	 
+has23, hecho
+no23, hecho	 
+makeLast, hecho	 
+double23, hecho
+fix23, hecho	 
+start1, hecho	 
+biggerTwo,hecho
+
