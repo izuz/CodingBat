@@ -1,9 +1,9 @@
-makeBricks, 
-loneSum, 
-luckySum, 
-noTeenSum, 	 
-roundSum, 	 
-closeFar, 
-blackjack,  
-evenlySpaced,  
-makeChocolate, 
+makeBricks, hecho
+loneSum, hecho
+luckySum, hecho
+noTeenSum, hecho 
+roundSum, hecho 
+closeFar, hecho
+blackjack, hecho
+evenlySpaced, hecho
+makeChocolate, hecho
