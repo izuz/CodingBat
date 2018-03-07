@@ -1,31 +1,31 @@
-sleepIn,	 
-monkeyTrouble, 	 
-sumDouble, 
-diff21, 	 
-parrotTrouble, 	 
-makes10, 
-nearHundred, 	 
-posNeg, 
-notString, 
-missingChar, 	 
-frontBack, 	 
-front3, 
-backAround, 	 
-or35, 	 
-front22, 
-startHi, 	 
-icyHot,	 
-in1020, 
-hasTeen,	 
-loneTeen, 	 
-delDel,
-mixStart, 	 
-startOz, 	 
-intMax, 
-close10, 	 
-in3050, 	 
-max1020, 
-stringE, 	 
-lastDigit,	 
-endUp,
-everyNth,
+sleepIn, hecho 
+monkeyTrouble, hecho 	 
+sumDouble, hecho 
+diff21, hecho	 
+parrotTrouble, hecho 	 
+makes10, hecho
+nearHundred, hecho	 
+posNeg, hecho
+notString, hecho
+missingChar, hecho 
+frontBack, hecho	 
+front3, hecho
+backAround, hecho	 
+or35, hecho	 
+front22, hecho
+startHi, hecho 
+icyHot,	hecho 
+in1020, hecho
+hasTeen, hecho	 
+loneTeen, hecho	 
+delDel, hecho
+mixStart, hecho	 
+startOz, hecho 
+intMax, hecho
+close10, hecho	 
+in3050, hecho	 
+max1020, hecho
+stringE, hecho	 
+lastDigit, hecho	 
+endUp, hecho
+everyNth, hecho
