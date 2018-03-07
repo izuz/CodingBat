@@ -7,4 +7,3 @@ squareUp, hecho
 seriesUp, hecho	
 maxMirror, hecho	 
 countClumps, hecho
-

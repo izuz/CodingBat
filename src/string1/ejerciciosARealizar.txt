@@ -1,5 +1,5 @@
-helloName H, hecho	 
-makeAbba H, hecho	 
+helloName, hecho	 
+makeAbba, hecho	 
 makeTags, hecho
 makeOutWord, hecho	 
 extraEnd, hecho	 

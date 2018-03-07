@@ -1,5 +1,5 @@
-doubleChar H, hecho	 
-countHi H, hecho	 
+doubleChar, hecho	 
+countHi, hecho	 
 catDog, hecho
 countCode, hecho	 
 endOther, hecho	 
@@ -10,4 +10,3 @@ mixString, hecho
 repeatEnd, hecho	 
 repeatFront, hecho	 
 repeatSeparator, hecho
-
