@@ -9,6 +9,7 @@ public class Array3 {
     public static void main(String[] args) {
 
     }
+    // maxSpan
     
     public int maxSpan(int[] nums) {
     if (nums.length > 0) {
@@ -24,6 +25,7 @@ public class Array3 {
     } else return 0;
 }
     
+    // fix34
     
     public int[] fix34(int[] nums) {
     for (int i = 0; i < nums.length; i++)
@@ -35,6 +37,7 @@ public class Array3 {
         }
     return nums;
 }
+    //fix45
     
     public int[] fix45(int[] nums) {
     for (int i = 0; i < nums.length; i++)
@@ -51,6 +54,7 @@ public class Array3 {
     }
     return nums;
 }
+    // canBalance
     
     public boolean canBalance(int[] nums) {
     for (int i = 0; i < nums.length; i++) { 
@@ -61,6 +65,7 @@ public class Array3 {
     }
     return false;
 }
+    // linearIn
     
     public boolean linearIn(int[] outer, int[] inner) {
     int indexInner = 0;
@@ -73,6 +78,7 @@ public class Array3 {
     }
     return (indexInner == inner.length);
 }
+    // squareUp
     
     public int[] squareUp(int n) {
   int[] result = new int[n * n];
@@ -90,6 +96,7 @@ public class Array3 {
   }
   return result;
 }
+    // seriesUp
     
     public int[] seriesUp(int n) {
   int[] result = new int[(int)((((n*n) + n)) / 2)];
@@ -102,6 +109,7 @@ public class Array3 {
   }
   return result;
 }
+    // maxMirror
     
 public int maxMirror(int[] nums) {
   int len = nums.length;
@@ -125,6 +133,7 @@ public int maxMirror(int[] nums) {
   return max;
 }
 
+// countClumps
 
 public int countClumps(int[] nums) {
   int current = -1, clump = 0;

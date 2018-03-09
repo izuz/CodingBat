@@ -5,30 +5,30 @@ package array1;
 
 public class Array1 {
     
-    //1 ///////////////////////////////////////////////
+    //makeMiddle
     public int[] makeMiddle(int[] nums) {
     int[] result = { nums[nums.length / 2 - 1], nums[nums.length / 2] };
     return result;
 
-}   //2 //////////////////////////////////////////////
+}   //commonEnd
     public boolean commonEnd(int[] a, int[] b) {
     return a[0] == b[0] || a[a.length - 1] == b[b.length - 1];
 
-}   //3 ///////////////////////////////////////////////
+}   //sum3
     public int sum3(int[] nums) {
     return nums[0] + nums[1] + nums[2];
 
-}   //4 ///////////////////////////////////////////////
+}   //rotateLeft3
     public int[] rotateLeft3(int[] nums) {
     int[] rLeft = { nums[1], nums[2], nums[0] };
     return rLeft;
 }
-    //5 ///////////////////////////////////////////////
+    //reverse3
     public int[] reverse3(int[] nums) {
     int[] newOrder = { nums[2], nums[1], nums[0] };
     return newOrder;
 }
-    //6 ///////////////////////////////////////////////
+    //maxEnd3
     public int[] maxEnd3(int[] nums) {
     if (nums[2] > nums[0]) {
         nums[0] = nums[2];
@@ -39,7 +39,7 @@ public class Array1 {
     }
     return nums;
 }
-    //7 ///////////////////////////////////////////////
+    //sum2
     public int sum2(int[] nums) {
   
     if (nums.length == 0)
@@ -52,13 +52,13 @@ public class Array1 {
     int[] c = { a[1], b[1] };
     return c;
 }
-    //8 ///////////////////////////////////////////////
+    //makeEnds
     public int[] makeEnds(int[] nums) {
      int[] result = { nums[0], nums[nums.length - 1] };
         return result;
 
 }
-    //9 ///////////////////////////////////////////////
+    //has23
     public boolean has23(int[] nums) {
     for (int i = 0; i < nums.length; i++) {
         if (nums[i] == 2 || nums[i] == 3)
@@ -66,7 +66,7 @@ public class Array1 {
     }
     return false;
 }
-    //10 ///////////////////////////////////////////////
+    //no23
     public boolean no23(int[] nums) {
    for (int i = 0; i < nums.length; i++) {
         if (nums[i] == 2 || nums[i] == 3)
@@ -74,13 +74,13 @@ public class Array1 {
     }
     return true;
 }
-   //11 ///////////////////////////////////////////////
+   //makeLast
     public int[] makeLast(int[] nums) {
    int[] result = new int[2 * nums.length];
     result[result.length - 1] = nums[nums.length - 1];
     return result;
 }
-     //12 ///////////////////////////////////////////////
+     //double23
     public boolean double23(int[] nums) {
     int twoCount = 0;
     int threeCount = 0;
@@ -92,7 +92,7 @@ public class Array1 {
     }
     return twoCount == 2 || threeCount == 2;
 }
-     //13 ///////////////////////////////////////////////
+     //fix23
 
     public int[] fix23(int[] nums) {
     for (int i = 0; i < nums.length - 1; i++) {
@@ -101,7 +101,7 @@ public class Array1 {
     }
     return nums;
 }
-     //14 ///////////////////////////////////////////////
+     //start1
     public int start1(int[] a, int[] b) {
     int count = 0;
     if (a.length > 0 && a[0] == 1)
@@ -110,7 +110,7 @@ public class Array1 {
         count++;
     return count;
 }
-    //15 ///////////////////////////////////////////////
+    //biggerTwo
     public int[] biggerTwo(int[] a, int[] b) {
    if (a[0] + a[1] < b[0] + b[1])
         return b;
